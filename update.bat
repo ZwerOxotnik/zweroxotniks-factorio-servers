@@ -1,0 +1,1 @@
+start /wait Factorio.exe --apply-update update.zip
